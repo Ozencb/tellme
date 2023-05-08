@@ -22,3 +22,11 @@ Flags:
 
 - [ ] Installation script
 - [ ] Pretty prints
+- [ ] REPL mode
+- [ ] Contexts/Profiles/Roles
+- [ ] Pipe support
+- [ ] History
+- [ ] Chat session
+- [ ] Exports
+- [ ] Easy config management
+- [ ] Shell completions 
