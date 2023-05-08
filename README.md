@@ -29,4 +29,5 @@ Flags:
 - [ ] Chat session
 - [ ] Exports
 - [ ] Easy config management
-- [ ] Shell completions 
+- [ ] Shell completions
+- [ ] Add Brew tap
